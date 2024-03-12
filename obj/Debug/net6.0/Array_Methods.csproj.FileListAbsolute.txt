@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\Array_Methods\Array_Methods\bin\Debug\net6.0\Array_Methods.exe
+C:\Users\hp\Desktop\Array_Methods\Array_Methods\bin\Debug\net6.0\Array_Methods.deps.json
+C:\Users\hp\Desktop\Array_Methods\Array_Methods\bin\Debug\net6.0\Array_Methods.runtimeconfig.json
+C:\Users\hp\Desktop\Array_Methods\Array_Methods\bin\Debug\net6.0\Array_Methods.dll
+C:\Users\hp\Desktop\Array_Methods\Array_Methods\bin\Debug\net6.0\Array_Methods.pdb
+C:\Users\hp\Desktop\Array_Methods\Array_Methods\obj\Debug\net6.0\Array_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Array_Methods\Array_Methods\obj\Debug\net6.0\Array_Methods.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Array_Methods\Array_Methods\obj\Debug\net6.0\Array_Methods.AssemblyInfo.cs
+C:\Users\hp\Desktop\Array_Methods\Array_Methods\obj\Debug\net6.0\Array_Methods.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Array_Methods\Array_Methods\obj\Debug\net6.0\Array_Methods.dll
+C:\Users\hp\Desktop\Array_Methods\Array_Methods\obj\Debug\net6.0\refint\Array_Methods.dll
+C:\Users\hp\Desktop\Array_Methods\Array_Methods\obj\Debug\net6.0\Array_Methods.pdb
+C:\Users\hp\Desktop\Array_Methods\Array_Methods\obj\Debug\net6.0\Array_Methods.genruntimeconfig.cache
+C:\Users\hp\Desktop\Array_Methods\Array_Methods\obj\Debug\net6.0\ref\Array_Methods.dll
